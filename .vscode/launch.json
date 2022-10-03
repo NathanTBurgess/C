@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CCILab2",
+            "request": "launch",
+            "mainClass": "CCILab2",
+            "projectName": "C_52246efc"
+        },
+        {
+            "type": "java",
+            "name": "Launch DSALab2",
+            "request": "launch",
+            "mainClass": "DSALab2",
+            "projectName": "C_52246efc"
+        }
+    ]
+}
