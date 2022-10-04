@@ -111,6 +111,8 @@ public class DSALab2{
             Scanner input = new Scanner(System.in);
             System.out.print("Please enter a sentence with no punctuation, only letters and spaces.\n");
             String sentence = input.nextLine();
+            
+            input.close();
 
             for (int i = 0; i < sentence.length(); i++)
             {
